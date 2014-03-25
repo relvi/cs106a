@@ -50,6 +50,7 @@ public class CollectNewspaperKarel extends SuperKarel {
 		turnRight();
 		move();
 		turnLeft();
+		
 		moveToWall();
 		turnAround();
 	}
